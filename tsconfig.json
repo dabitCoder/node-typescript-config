@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "skipLibCheck": true,
+    "allowSyntheticDefaultImports": true,
+    "baseUrl": "./src",
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "module": "es6",
+    "moduleResolution": "node",
+    "noFallthroughCasesInSwitch": true,
+    "noImplicitAny": true,
+    "noEmitOnError": true,
+    "strict": true,
+    "strictNullChecks": true,
+    "target": "es6"
+  },
+  "include": ["src/**/*.ts"],
+  "exclude": ["node_modules"]
+}
